@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+chroma_db/
+*.faiss
+*.pkl
